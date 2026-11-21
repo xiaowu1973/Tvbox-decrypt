@@ -19,8 +19,8 @@ TVBox / 影视仓 配置接口解密工具，两种形态：
 Actions 每次运行（每日 03:20 UTC 自动 / push / 手动）会遍历 `mirror/lines.txt` 里的线路，逐个解密成 `<名称>.json`，发布到：
 
 ```
-https://kukuqi666.github.io/Tvbox-decrypt/mirror/index.html   <- 索引页（状态一览）
-https://kukuqi666.github.io/Tvbox-decrypt/mirror/饭太硬.json    <- 解密后的配置，直接给 TVBox 用
+https://xiaowu1973.github.io/Tvbox-decrypt/mirror/index.html   <- 索引页（状态一览）
+https://xiaowu1973.github.io/Tvbox-decrypt/mirror/饭太硬.json    <- 解密后的配置，直接给 TVBox 用
 ```
 
 TVBox 里把上面任一 `.json` 地址填进「配置地址」即可，**原站挂了也不受影响**。
