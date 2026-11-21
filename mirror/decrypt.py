@@ -10,7 +10,7 @@
 
     lines.txt  每行一条：  名称|URL     (名称用于输出文件名 <名称>.json)
     输出目录    解密产物 + index.html 落盘目录
-    base_url   索引页里生成绝对地址用（如 https://kukuqi666.github.io/Tvbox-decrypt/mirror）
+    base_url   索引页里生成绝对地址用（如 https://xiaowu1973.github.io/Tvbox-decrypt/mirror）
 
 依赖：curl（Linux/Windows 均内置/常见）
 """
